@@ -1,0 +1,8 @@
+/* hide the big titles */
+.hiddenTitle{
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    left: -10000px;
+}
+
